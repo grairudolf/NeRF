@@ -333,8 +333,5 @@ This project demonstrates:
 
 ## License
 
-Personal project for learning purposes.
-=======
-# NeRF
-3D Object Reconstruction Using Neural Radiance Fields (NeRF).
->>>>>>> 9d37ff73d77be4de32aedd0415abbf94271d38d4
+MIT
+
