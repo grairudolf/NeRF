@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "pytorch-nerf"
+version = "0.1.0"
+description = "A PyTorch implementation of Neural Radiance Fields (NeRF) for 3D scene reconstruction from 2D images."
+authors = ["Your Name <your.email@example.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/yourusername/pytorch-nerf"
+repository = "https://github.com/yourusername/pytorch-nerf"
+keywords = ["NeRF", "3D reconstruction", "neural rendering", "PyTorch"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+torch = "^1.9.0"
+numpy = "^1.21.0"
+matplotlib = "^3.4.0"
+pyyaml = "^5.4.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
