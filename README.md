@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Neural Radiance Fields (NeRF) - Personal Implementation
 
 A **from-scratch PyTorch implementation** of Neural Radiance Fields, a technique for reconstructing photorealistic 3D scenes from multiple 2D images using implicit neural representation and differentiable volumetric rendering.
@@ -333,3 +334,7 @@ This project demonstrates:
 ## License
 
 Personal project for learning purposes.
+=======
+# NeRF
+3D Object Reconstruction Using Neural Radiance Fields (NeRF).
+>>>>>>> 9d37ff73d77be4de32aedd0415abbf94271d38d4
